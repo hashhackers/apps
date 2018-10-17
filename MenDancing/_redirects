@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://dancing-bots.netlify.com/* https://dancing-bots.apps.hashhackers.com/:splat 301!
